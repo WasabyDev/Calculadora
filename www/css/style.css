@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background-image: linear-gradient(45deg,#410D61, #B066DE)
 }
-.style1 {
+.tudo {
   background-color: #410D61;
   position: absolute;
   top: 50%;
@@ -26,4 +26,6 @@ body {
   padding: 20px;
   border-radius: 20px;
   border: none;
+  color: #ffff;
+  background-color: #B066DE;
 }
